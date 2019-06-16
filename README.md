@@ -22,4 +22,8 @@ Running it in the Terminal:
 - This whole thing can run inside the terminal, no fancy UI needed
 - Look into the gets.chomp (gets means get-string) for helping with grabbing input from the user from the terminal
 
-
+Sample:
+- I've written a sample of what it should roughly look like. 
+- In order to run it, just download this repo
+- type `ruby movie_scrapper.rb` and it should start running (you may have to do a bundle install first)
+- *dont look at the code! you can figure it out, just take it slow*
